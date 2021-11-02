@@ -13,7 +13,7 @@ Brain and Machine Learning/ 2020-2 / Professor Seok Heung il, Korea University
   - MCI (Mild Cognitive Impairment) : 경도 인지 장애
   - CN (Cognitive Normal) : 인지 정상
 
-- 데이터
+- 데이터 (csv 형식)
   - class of disease
   - cortical volume of a hippocampus
   - cortical volume of an entorhinal cortex
@@ -29,10 +29,12 @@ Brain and Machine Learning/ 2020-2 / Professor Seok Heung il, Korea University
 - pandas : 데이터 분석에 활용
 - matplotlib : matlab과 유사하게 그래프를 그리는데 활용
 
-2nd project
+## Project B
+
+### Description
+
+- 
+
+### 사용 라이브러리
 
 
-3rd project
-
-
-team project
